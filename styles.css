@@ -1,9 +1,7 @@
-.holder{
-	display: flex;
-	justify-content: space-evenly;
-	gap: 20px;
-	margin-top: 50px;
-	align-items: center;
+.holder {
+    display: flex;
+    justify-content: space-evenly; /* evenly spacing */
+    flex-wrap: wrap;               /* next row */
 }
 
 .item{
