@@ -3,10 +3,12 @@
 	justify-content: center;
 	gap: 20px;
 	margin-top: 50px;
+	align-items: center;
 }
 
 .item{
 	padding: 20px;
 	background-color: lightgray;
 	border: 1px solid black;
+	text-align: center;
 }
