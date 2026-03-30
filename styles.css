@@ -1,2 +1,13 @@
+.holder{
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	margin-top: 50px;
+}
 
-/* Your CSS Code here. */
+.item{
+	padding: 20px;
+	background-color: lightgray;
+	align-content: center;
+	boder: 2px solid black;
+}
